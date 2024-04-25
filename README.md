@@ -1,3 +1,3 @@
 # FFMPEGDownload" 
 
-Is just ffmepg but compressed
+Is just ffmpeg but compressed
